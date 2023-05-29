@@ -1,0 +1,31 @@
+
+
+body{
+    background-color: black;
+}
+
+
+#memeTitle{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+#memeDescription{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    
+}
+
+#memeImage{
+    border: 5px solid white;
+    width: 100%;
+}
+
+#meme{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 80px;
+    text-align: center;
+}
+
